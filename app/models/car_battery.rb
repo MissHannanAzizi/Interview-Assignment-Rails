@@ -1,0 +1,2 @@
+class CarBattery < ApplicationRecord
+end
